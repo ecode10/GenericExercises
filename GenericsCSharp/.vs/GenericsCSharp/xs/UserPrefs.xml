@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{EA3478D9-1CFD-476D-9DAA-3832D671EF42}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GenericsCSharp/Animal.cs">
+    <Files>
+      <File FileName="GenericsCSharp/Program.cs" Line="8" Column="10" />
+      <File FileName="GenericsCSharp/Animal.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GenericsCSharp" expanded="True">
+            <Node name="GenericsCSharp" expanded="True">
+              <Node name="Animal.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.GenericsCSharp FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

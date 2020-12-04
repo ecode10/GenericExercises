@@ -1,0 +1,12 @@
+/Users/mauriciojunior/Documents/GitHub/GenericExercises/GenericsCSharp/GenericsCSharp/bin/Debug/netcoreapp3.1/GenericsCSharp.deps.json
+/Users/mauriciojunior/Documents/GitHub/GenericExercises/GenericsCSharp/GenericsCSharp/bin/Debug/netcoreapp3.1/GenericsCSharp.runtimeconfig.json
+/Users/mauriciojunior/Documents/GitHub/GenericExercises/GenericsCSharp/GenericsCSharp/bin/Debug/netcoreapp3.1/GenericsCSharp.runtimeconfig.dev.json
+/Users/mauriciojunior/Documents/GitHub/GenericExercises/GenericsCSharp/GenericsCSharp/bin/Debug/netcoreapp3.1/GenericsCSharp.dll
+/Users/mauriciojunior/Documents/GitHub/GenericExercises/GenericsCSharp/GenericsCSharp/bin/Debug/netcoreapp3.1/GenericsCSharp.pdb
+/Users/mauriciojunior/Documents/GitHub/GenericExercises/GenericsCSharp/GenericsCSharp/obj/Debug/netcoreapp3.1/GenericsCSharp.csprojAssemblyReference.cache
+/Users/mauriciojunior/Documents/GitHub/GenericExercises/GenericsCSharp/GenericsCSharp/obj/Debug/netcoreapp3.1/GenericsCSharp.AssemblyInfoInputs.cache
+/Users/mauriciojunior/Documents/GitHub/GenericExercises/GenericsCSharp/GenericsCSharp/obj/Debug/netcoreapp3.1/GenericsCSharp.AssemblyInfo.cs
+/Users/mauriciojunior/Documents/GitHub/GenericExercises/GenericsCSharp/GenericsCSharp/obj/Debug/netcoreapp3.1/GenericsCSharp.csproj.CoreCompileInputs.cache
+/Users/mauriciojunior/Documents/GitHub/GenericExercises/GenericsCSharp/GenericsCSharp/obj/Debug/netcoreapp3.1/GenericsCSharp.dll
+/Users/mauriciojunior/Documents/GitHub/GenericExercises/GenericsCSharp/GenericsCSharp/obj/Debug/netcoreapp3.1/GenericsCSharp.pdb
+/Users/mauriciojunior/Documents/GitHub/GenericExercises/GenericsCSharp/GenericsCSharp/obj/Debug/netcoreapp3.1/GenericsCSharp.genruntimeconfig.cache
